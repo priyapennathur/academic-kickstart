@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Priyadarshini Pennathur
+title: Nelson Bighetti
 
 # Username (this should match the folder name)
 authors:
@@ -10,23 +10,22 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor, Industrial and Systems Engineering
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: University of Iowa
+- name: Stanford University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include cognitive engineering, healthcare, information systems, and complexity.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Cognitive Engineering
-- Healthcare
-- Information Systems
-- Complexity
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
-education:[]
+education:
   courses:
   - course: PhD in Artificial Intelligence
     institution: Stanford University
@@ -46,9 +45,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: github
+  icon_pack: fab
+  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
