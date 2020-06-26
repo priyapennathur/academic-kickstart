@@ -10,9 +10,9 @@ primary = "#DC7633"
 # Menu
 menu_primary = "#FFFAF7"
 menu_text = "#34495e"
-menu_text_active = "#F7CDB2"
+menu_text_active = "#DC7633"
 menu_title = "#2b2b2b"
 
 # Home sections
-home_section_odd = "rgb(255, 246, 241)"
-home_section_even = "rgb(254, 247, 247)"
+home_section_odd = "rgb(255, 235, 235)"
+home_section_even = "rgb(242, 240, 235)"
