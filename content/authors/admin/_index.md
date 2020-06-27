@@ -35,12 +35,11 @@ education:
     institution: University of Texas at El Paso
     year: 2005
   - course: MSc in Computer Science
-  institution: University of Madras
+    institution: University of Madras
     year: 2003
   - course: BSc in Computer Science
     institution: University of Madras
     year: 2001
-
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
