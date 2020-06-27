@@ -20,13 +20,13 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include cognitive engineering, healthcare, information systems and complexity.
 
-interests:
+# interests:
 - Cognitive Engineering
 - Healthcare
 - Information Systems
 - Complexity
 
-education:
+# education:
   courses:
   - course: PhD in Artificial Intelligence
     institution: Stanford University
