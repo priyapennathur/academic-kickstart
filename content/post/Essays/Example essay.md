@@ -1,5 +1,5 @@
 ---
-title: example essay
+title: Essay
 permalink: 
 ---
 

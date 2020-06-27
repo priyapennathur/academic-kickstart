@@ -1,5 +1,5 @@
 ---
-title: example news
+title: Blog Post
 permalink: 
 ---
 
