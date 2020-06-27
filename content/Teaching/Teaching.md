@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching
-permalink: /teaching/
+permalink: 
 ---
 
 **Courses I have taught since 2012:**
