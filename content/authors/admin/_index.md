@@ -27,17 +27,17 @@ interests:
 - Complexity
 
 education:
- courses:
-- course: PhD in Industrial and Systems Engineering
+  courses:
+  - course: PhD in Industrial and Systems Engineering
     institution: State University of New York at Buffalo
     year: 2010
-- course: MS in Industrial and Systems Engineering
+  - course: MS in Industrial and Systems Engineering
     institution: University of Texas at El Paso
     year: 2005
-- course: MSc in Computer Science
-    institution: University of Madras
+  - course: MSc in Computer Science
+  institution: University of Madras
     year: 2003
-- course: BSc in Computer Science
+  - course: BSc in Computer Science
     institution: University of Madras
     year: 2001
 
