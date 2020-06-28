@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Project
-permalink: /project/
+permalink: /research/
 ---
 
 **Triage Decision Making:**
