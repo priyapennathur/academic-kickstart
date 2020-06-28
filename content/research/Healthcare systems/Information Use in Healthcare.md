@@ -1,4 +1,5 @@
 ---
+laout:page
 title: Project
 permalink: 
 ---
