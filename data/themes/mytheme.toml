@@ -13,6 +13,8 @@ menu_text = "#34495e"
 menu_text_active = "#c42400"
 menu_title = "#c42400"
 
+background = "rgb(255, 246, 241)"
+
 # Home sections
 home_section_odd = "rgb(255, 246, 241)"
 home_section_even = "rgb(255, 246, 241)"
