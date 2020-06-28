@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Priyadarshini Pennathur
+title: 
 
 # Username (this should match the folder name)
 authors:
