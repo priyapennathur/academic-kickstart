@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Research Human Factors
-permalink: /research/
+permalink: 
 ---
 
 **Triage Decision Making:**
