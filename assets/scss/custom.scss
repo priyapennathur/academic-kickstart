@@ -1,11 +1,36 @@
 // Override this file to add your own SCSS styling.
 /* Headings */
 
+html {
+  font-family: $sta-font-body, sans-serif;
+  font-size: #{$sta-font-size-small}px;
+  color: rgba(0,0,0,0.8);
+  line-height: 1.65;
+}
+@media screen and (min-width: 58em) {
+  html {
+    font-size: #{$sta-font-size}px;
+  }
+}
+
+body {
+  font-family: inherit;
+  font-size: 1rem;
+  line-height: inherit;
+  color: inherit;
+  background-color: $sta-background;
+  margin-top: 70px; /* Offset body content by navbar height. */
+  padding-top: 0;
+  counter-reset: captions;
+}
+
+/* Headings */
 h1, h2, h3, h4, h5, h6 {
-  font-family: Roboto, sans-serif;
-  margin-top: 1.2rem;
-  margin-bottom: .6rem;
-  line-height: 1.35;
+  font-family: $sta-font-heading, sans-serif;
+  font-weight: 400;
+  margin-top: 1rem;
+  margin-bottom: .5rem;
+  line-height: 1.25;
   color: #313131;
   text-rendering: optimizeLegibility;
 
@@ -19,31 +44,53 @@ h1, h2, h3, h4, h5, h6 {
   -ms-hyphens: manual;
   hyphens: manual;
 }
+
 h1 {
-  font-size: 16px;
-  font-weight: 700;
-  padding-bottom: .25em;
+  font-size: 2rem;
 }
 h2 {
-  font-size: 16px;
-  font-weight: 700;
-  line-height: 1.225;
-  margin: 35px 0 15px;
+  margin-top: 1rem;
+  font-size: 1.5rem;
 }
 h3 {
-  font-size: 16px;
   font-weight: 700;
-  line-height: 1.43;
-  margin: 20px 0 7px;
+  margin-top: 1.5rem;
+  font-size: 1.25rem;
 }
-h4 {
-  font-size: 16px;
+h4, h5, h6 {
   font-weight: 700;
+  margin-top: 1rem;
+  font-size: 1rem;
 }
-h5, h6 {
-  font-size: 16px;
-  font-weight: 700;
-}
+
 body {
     font-size: 80%;
+}
+
+.page-subtitle {
+  font-size: 1rem;
+  color: rgba(0,0,0,.54);
+  margin-bottom: 1rem;
+}
+.pub-row-heading {
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.article-title {
+  font-size: 1.5rem;
+}
+.article-header-caption {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin: 0 auto;
+  padding: 2px 5px;
+  color: #fff;
+  font-size: .7em;
+  background: #000;
+  text-align: right;
+  z-index: 5;
+  opacity: 0.65;
+  border-radius: 5px 0 0 0;
 }
