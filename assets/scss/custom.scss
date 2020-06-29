@@ -56,7 +56,7 @@ h2 {
 h3 {
   font-weight: 500;
   margin-top: 1.5rem;
-  font-size: 1rem;
+  font-size: .7rem;
 }
 h4, h5, h6 {
   font-weight: 500;
@@ -71,6 +71,10 @@ body {
 p {
     font-size: 1rem;
 }
+
+.site-title {
+  font-size: 1.25rem;
+}
 .page-title {
   font-size: .7rem;
   color: rgba(0,0,0,.54);
@@ -83,7 +87,7 @@ p {
   margin-bottom: 1rem;
 }
 .pub-row-heading {
-  font-size: 1rem;
+  font-size: 0.5rem;
   font-weight: bold;
 }
 
