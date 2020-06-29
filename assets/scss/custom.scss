@@ -1,8 +1,9 @@
 // Override this file to add your own SCSS styling.
 /* Headings */
+
 h1, h2, h3, h4, h5, h6 {
   font-family: Roboto, sans-serif;
-  font-weight: 400;
+  font-weight: 700;
   margin-top: 1.2rem;
   margin-bottom: .6rem;
   line-height: 1.35;
@@ -20,26 +21,23 @@ h1, h2, h3, h4, h5, h6 {
   hyphens: manual;
 }
 h1 {
-  font-size: 16px;
+  font-size: 18px;
   padding-bottom: .25em;
 }
 h2 {
-  font-size: 14px;
+  font-size: 16px;
   line-height: 1.225;
   margin: 35px 0 15px;
 }
 h3 {
-  font-size: 14px;
-  font-weight: 600;
+  font-size: 16px;
+  font-weight: 700;
   line-height: 1.43;
   margin: 20px 0 7px;
 }
 h4 {
-  font-size: 14px;
+  font-size: 16px;
 }
 h5, h6 {
-  font-size: 12px;
-}
-body {
-    font-size: 80%;
+  font-size: 16px;
 }
