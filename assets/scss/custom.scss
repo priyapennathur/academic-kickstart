@@ -67,8 +67,14 @@ body {
     font-size: 80%;
 }
 
-.page-subtitle {
+.page-title {
   font-size: .7rem;
+  color: rgba(0,0,0,.54);
+  margin-bottom: 1rem;
+}
+
+.page-subtitle {
+  font-size: .5rem;
   color: rgba(0,0,0,.54);
   margin-bottom: 1rem;
 }
@@ -78,7 +84,7 @@ body {
 }
 
 .article-title {
-  font-size: 1rem;
+  font-size: .5rem;
 }
 .article-header-caption {
   position: absolute;
@@ -87,7 +93,7 @@ body {
   margin: 0 auto;
   padding: 2px 5px;
   color: #fff;
-  font-size: .7em;
+  font-size: .5em;
   background: #000;
   text-align: right;
   z-index: 5;
