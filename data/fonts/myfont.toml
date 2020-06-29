@@ -2,13 +2,13 @@
 name = "myfont"
 
 # Optional Google font URL
-google_fonts = "Cormorant:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Libre+Franklin&family=Montserrat&family=Open+Sans&family=PT+Sans&family=Roboto"
+google_fonts = "Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&family=PT+Sans+Narrow:wght@400;700&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700"
 
 # Font families
-heading_font = "PT Sans"
-body_font = "Cormorant"
-nav_font = "Cormorant"
-mono_font = "Cormorant"
+heading_font = "PT Sans Narrow"
+body_font = "Open Sans"
+nav_font = "Open Sans"
+mono_font = "Open Sans"
 
 # Font Size
 font_size = "16"
