@@ -9,3 +9,7 @@ heading_font = "Cormorant"
 body_font = "Cormorant"
 nav_font = "Cormorant"
 mono_font = "Cormorant"
+
+# Font Size
+font_size = "18"
+font_size_small = "16"
