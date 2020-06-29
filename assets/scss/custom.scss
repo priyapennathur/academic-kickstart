@@ -1,28 +1,6 @@
 // Override this file to add your own SCSS styling.
 /* Headings */
 
-html {
-  font-family: $sta-font-body, sans-serif;
-  font-size: #{$sta-font-size-small}px;
-  color: rgba(0,0,0,0.8);
-  line-height: 1.65;
-}
-@media screen and (min-width: 58em) {
-  html {
-    font-size: #{$sta-font-size}px;
-  }
-}
-
-body {
-  font-family: inherit;
-  font-size: 1rem;
-  line-height: inherit;
-  color: inherit;
-  background-color: $sta-background;
-  margin-top: 70px; /* Offset body content by navbar height. */
-  padding-top: 0;
-  counter-reset: captions;
-}
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
