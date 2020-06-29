@@ -1,0 +1,45 @@
+// Override this file to add your own SCSS styling.
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: Roboto, sans-serif;
+  font-weight: 400;
+  margin-top: 1.2rem;
+  margin-bottom: .6rem;
+  line-height: 1.35;
+  color: #313131;
+  text-rendering: optimizeLegibility;
+
+  /* Ensure long words do not overflow into content. */
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  word-break: break-word;
+
+  /* Add a hyphen where the word breaks (use `&shy;` to insert a soft-hyphen in a word). */
+  -webkit-hyphens: manual;
+  -ms-hyphens: manual;
+  hyphens: manual;
+}
+h1 {
+  font-size: 16px;
+  padding-bottom: .25em;
+}
+h2 {
+  font-size: 14px;
+  line-height: 1.225;
+  margin: 35px 0 15px;
+}
+h3 {
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 1.43;
+  margin: 20px 0 7px;
+}
+h4 {
+  font-size: 14px;
+}
+h5, h6 {
+  font-size: 12px;
+}
+body {
+    font-size: 80%;
+}
