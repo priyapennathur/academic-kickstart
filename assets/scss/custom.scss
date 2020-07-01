@@ -44,7 +44,7 @@ h4, h5, h6 {
 
 body {
     font-size: 0.7rem;
-    font-family: Helvetica Neue, serif;
+    font-family: $sta-font-body, serif;
     font-size: 1rem;
 }
 .navbar-brand {
@@ -54,7 +54,7 @@ body {
     font-size: .7rem;
 }
 p {
-    font-family: Helvetica Neue, serif;
+    font-family: $sta-font-body, serif;
     font-size: 1rem;
 }
 
