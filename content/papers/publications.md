@@ -27,11 +27,15 @@ subtitle = ""
   [content.filters]
     tag = ""
     category = ""
-    publication_type = "2"
+    publication_type = ""
     author = ""
     exclude_featured = false
   
+filter_default = 0
 
+[[content.filter_button]]
+     name = "Conference Proceeding"
+     publication_type = "1"
 [design]
   # Toggle between the various page layout types.
   #   1 = List
