@@ -27,16 +27,11 @@ subtitle = ""
   [content.filters]
     tag = ""
     category = ""
-    publication_type = "1"
+    publication_type = "0, 1, 2, 3, 4, 5, 6, 7, 8"
     author = ""
     exclude_featured = false
   
-  [content.filters]
-    tag = ""
-    category = ""
-    publication_type = "2"
-    author = ""
-    exclude_featured = false
+
 [design]
   # Toggle between the various page layout types.
   #   1 = List
