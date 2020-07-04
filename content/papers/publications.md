@@ -30,12 +30,8 @@ subtitle = ""
     publication_type = ""
     author = ""
     exclude_featured = false
-  
-filter_default = 0
 
-[[content.filter_button]]
-     name = "Conference Proceeding"
-     publication_type = "1"
+
 [design]
   # Toggle between the various page layout types.
   #   1 = List
@@ -72,6 +68,6 @@ filter_default = 0
  css_class = ""
 +++
 
-{{% alert note %}}
+
 Quickly discover relevant content by [filtering publications]({{<ref "/publication/_index.md">}}).
-{{% /alert %}}
+
