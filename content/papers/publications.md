@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
-title = "Recent Publications"
+title = ""
 subtitle = ""
 
 [content]
@@ -27,10 +27,16 @@ subtitle = ""
   [content.filters]
     tag = ""
     category = ""
-    publication_type = ""
+    publication_type = "1"
     author = ""
     exclude_featured = false
   
+  [content.filters]
+    tag = ""
+    category = ""
+    publication_type = "2"
+    author = ""
+    exclude_featured = false
 [design]
   # Toggle between the various page layout types.
   #   1 = List
