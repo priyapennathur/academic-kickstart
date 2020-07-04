@@ -1,5 +1,5 @@
 ---
-title: Internal Project
+title: Patient Safety
 summary: An example of using the in-built project page.
 tags:
 - Patient Safety
