@@ -99,3 +99,14 @@ p {
   opacity: 0.65;
   border-radius: 5px 0 0 0;
 }
+
+.post-content > p:first-child::first-letter{
+font-size: 4rem;
+margin: .55rem .55rem 0 0;
+line-height: 1;
+float: left;
+color: slategray;
+font-weight: 900;
+-webkit-margin-before: 0;
+-webkit-margin-after: -.55rem;
+}
